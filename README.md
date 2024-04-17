@@ -2,7 +2,7 @@
 Novalnet’s payment module for SAP Commerce Cloud Spartacus integrates with your shop system through standard SAP-approved interfaces and APIs. The SAP Commerce Cloud payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences - thus simplifying payment processing with a single integration.
 
 ## Integration requirements for SAP Commerce Cloud Spartacus
-Novalnet merchant account is required for using this Novalnet payment module for SAP Commerce Cloud Spartacus. The module is available for the version 2211 in the following languages: EN & DE. 
+Novalnet merchant account is required for using this Novalnet payment module for SAP Commerce Cloud Spartacus. The module is available for the SAP Commerce Cloud version: 2211 and Spartacus version 2211 in the following languages: EN & DE. 
 
 ## Advantages of Novalnet's SAP Commerce Cloud integration
 -	Easy configuration for all payment methods
