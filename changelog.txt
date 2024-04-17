@@ -1,10 +1,14 @@
 *** Changelog ***
-= 1.0.1   - 2024.02.27 = 
 
+= 1.0.2   - 2024.04.17 = 
+* Enhanced - Refactored the parameters for the order creation API
+* Enhanced - Checksum validation in Novalnet Composable storefront extension
+* Enhanced - For the Failed transactions, an error notice was sent to the Spartacus storefront 
+
+= 1.0.1   - 2024.02.27 = 
 * Fix - Compatibility for SAP commerce cloud 2211
 
 = 1.0.0   - 2023.02.27 = 
-
 - Major version release: We've improved the seamless customer experience and brand configurations in the Novalnet Merchant Admin Portal to make it easier to preview and customize the checkout page
 
 
